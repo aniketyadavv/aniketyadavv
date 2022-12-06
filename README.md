@@ -6,6 +6,9 @@
 <!--- <p align="left"> <a href="https://twitter.com/iaaniket" target="blank"><img src="https://img.shields.io/twitter/follow/iaaniket?logo=twitter&style=for-the-badge" alt="iaaniket" /></a> </p>  --->
 <img align="right" alt="GIF" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" /> 
 
+
+- 👤 Know about me [here](https://aniketyadav.tech/)
+
 - 👨‍💻 All of my projects are available at [here](https://github.com/aniketyadavv?tab=repositories)
 
 - 💬 Ask me about **JavaScript & CSS**
@@ -13,8 +16,6 @@
 - 🤖 Part of **Developer Community**
 
 - 📫 How to reach me **aniket912yadav@gmail.com**
-
-- 📄 Know about my experiences [NA](NA)
 
 - ⚡ Fun fact **I think I am Introvert**
 
