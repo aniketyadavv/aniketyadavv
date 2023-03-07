@@ -40,6 +40,14 @@
   
  </p>
 
+
+<h3 align="left">My Productivity Stats:</h3>
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniketyadavv&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+</table>
+
 <p align="center">
 <a href="https://github.com/aniketyadavv">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aniketyadavv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -48,3 +56,4 @@
 </p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketyadavv&" alt="aniketyadavv" /></p> -->
+
