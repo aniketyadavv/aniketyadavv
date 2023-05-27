@@ -7,7 +7,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" /> 
 
 
-- 👤 Know about me [here](https://aniketyadav.tech/)
+- 👤 Know about me [here](https://anixsite.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/aniketyadavv?tab=repositories)
 
