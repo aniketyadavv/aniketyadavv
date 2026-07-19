@@ -5,12 +5,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F3864&center=true&vCenter=true&width=600&lines=SAP+ABAP+Developer+%40+Deloitte;S%2F4HANA+%7C+WRICEF+%7C+CDS+Views+%7C+OData;Building+with+SAP+BTP+%2B+RAP+%2B+CAP;Bridging+Classic+SAP+with+Modern+Cloud+Tech" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/xaniket"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:aniket912yadav@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/aniket__ydv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aniket__ydv" height="30" width="40" /></a>&nbsp
+<a href="https://linkedin.com/in/aniket-yadavv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket-yadavv" height="30" width="40" /></a>&nbsp
+<a href="https://instagram.com/aniket__ydv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aniket__ydv" height="30" width="40" /></a>&nbsp
+<a href="https://www.leetcode.com/aniket__ydv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aniket__ydv" height="30" width="40" /></a>&nbsp
 </p>
-
----
 
 ### 🧑‍💻 About Me
 
@@ -56,24 +57,22 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
 | Project | Description | Stack |
 |---|---|---|
 | **[Vendor Onboarding & Procurement Tracker](#)** | Custom CDS view on a vendor master table, exposed as an OData V4 service on SAP BTP, with validation logic tested via Postman | `SAP BTP` `CDS Views` `OData V4` |
 | **[Employee Travel Request Management](#)** | Cloud-based travel request app built with ABAP RAP, CDS Views & OData V4, with draft handling and approval tracking via Fiori Elements UI | `SAP BTP` `ABAP RAP` `CDS Views` `OData V4` `Fiori Elements` |
 
-*(Update the links above once each repo is live)*
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aniketyadavv&show_icons=true&theme=default&hide_border=true&title_color=1F3864&icon_color=1F3864" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketyadavv&layout=compact&hide_border=true&title_color=1F3864" />
+<a href="https://github.com/aniketyadavv">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aniketyadavv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aniketyadavv&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 ---
-
 <p align="center"><i>SAP ABAP Developer bridging classic enterprise systems with modern cloud-native development.</i></p>
