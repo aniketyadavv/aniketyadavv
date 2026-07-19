@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Yadav</h1>
-<h3 align="center">SAP ABAP Developer.🤍📐</h3>
+<h3 align="center">SAP ABAP, Odata, RAP, BTP, UI5 Developer.🤍📐</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aniketyadavv&label=Profile%20visitors&color=0e75b6&style=flat" alt="aniketyadavv" /> </p>
 
@@ -11,13 +11,12 @@
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/aniketyadavv?tab=repositories)
 
-- 💬 Ask me about **JavaScript & CSS**
+- 💬 Ask me about **ABAP, CDS, UI5 , FIORI & RAP**
 
-- 🤖 Part of **Developer Community**
+- 🤖 Part of **SAP Developer Community**
 
 - 📫 How to reach me **aniket912yadav@gmail.com**
 
-- ⚡ Fun fact **KYA! Fun fact?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
